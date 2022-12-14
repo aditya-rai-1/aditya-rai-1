@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently an undergrad at Indian Institute of Technology, Kharagpur
+- 🌱 I’m currently learning Machine Learning and its applications.
+- ⚡ Generalist Programmer
 
 <!--
 **aditya-rai-1/aditya-rai-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
